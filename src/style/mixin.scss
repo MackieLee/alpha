@@ -1,0 +1,6 @@
+//定義媒體查詢
+@mixin media-less-md() {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}

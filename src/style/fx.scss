@@ -1,0 +1,24 @@
+.fx-horz-ctr {
+  display: flex;
+  justify-content: center;
+}
+
+.fx-spc-btn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fx-spc-around {
+  display: flex;
+  justify-content: space-around;
+}
+
+.fx-ver-ctr {
+  display: flex;
+  align-items: center;
+}
+
+.fx-wrap-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}

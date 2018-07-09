@@ -1,0 +1,2 @@
+webpackJsonp([0],{DTdY:function(t,r,s){"use strict";s.d(r,"a",function(){return u}),s.d(r,"b",function(){return n});var u=function(t){t.$store.state.pwdUuid!=location.hash.substr(1)||""===t.$store.state.pwdUuid?t.$router.push({path:"/"}):t.$store.state.pwdUuid=""},n=function(t,r){var s=Math.random().toString(36).substr(2);t.$store.state.pwdUuid=s,t.$router.push({path:r+"#"+s})}}});
+//# sourceMappingURL=0.5ad03f1d1d60508ad46f.js.map
